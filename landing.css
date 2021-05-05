@@ -21,7 +21,8 @@ body {
   min-height: 500px;
 
      /* Location of the image */
-  background-image: url(images/patrick-langwallner-3pR7d-tIRx8-unsplash.jpg);
+  /*background-image: url(images/patrick-langwallner-3pR7d-tIRx8-unsplash.jpg);*/
+  background-image: url(https://github.com/jaeleen/Landing-Page/blob/main/Images/patrick-langwallner-3pR7d-tIRx8-unsplash.jpg);
   
   /* Background image is centered vertically and horizontally at all times */
   background-position: center right;
